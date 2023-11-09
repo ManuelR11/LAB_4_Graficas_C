@@ -17,17 +17,17 @@ Para poder correr todos los planteas, se debe de descomentar el planeta que se d
 
 
 ## Resultados:
-- Earth
-![](https://github.com/ManuelR11/LAB_4_Graficas_C/blob/df0cf496c3fbdf1c92e3d01816b24cf5b749c5fd/Earth.gif)
+1. Earth
+  - ![](https://github.com/ManuelR11/LAB_4_Graficas_C/blob/df0cf496c3fbdf1c92e3d01816b24cf5b749c5fd/Earth.gif)
 
-- Saturn
-![](https://github.com/ManuelR11/LAB_4_Graficas_C/blob/df0cf496c3fbdf1c92e3d01816b24cf5b749c5fd/Saturn.gif)
+2. Saturn
+  - ![](https://github.com/ManuelR11/LAB_4_Graficas_C/blob/df0cf496c3fbdf1c92e3d01816b24cf5b749c5fd/Saturn.gif)
 
-- Sun
-![](https://github.com/ManuelR11/LAB_4_Graficas_C/blob/df0cf496c3fbdf1c92e3d01816b24cf5b749c5fd/Sun.gif)
+3. Sun
+  - ![](https://github.com/ManuelR11/LAB_4_Graficas_C/blob/df0cf496c3fbdf1c92e3d01816b24cf5b749c5fd/Sun.gif)
 
-- Mars
-![](https://github.com/ManuelR11/LAB_4_Graficas_C/blob/df0cf496c3fbdf1c92e3d01816b24cf5b749c5fd/Mars.gif)
+4. Mars
+  - ![](https://github.com/ManuelR11/LAB_4_Graficas_C/blob/df0cf496c3fbdf1c92e3d01816b24cf5b749c5fd/Mars.gif)
 
-- Venus
-![](https://github.com/ManuelR11/LAB_4_Graficas_C/blob/df0cf496c3fbdf1c92e3d01816b24cf5b749c5fd/Venus.gif) 
+5. Venus
+  - ![](https://github.com/ManuelR11/LAB_4_Graficas_C/blob/df0cf496c3fbdf1c92e3d01816b24cf5b749c5fd/Venus.gif) 
