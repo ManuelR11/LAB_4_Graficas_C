@@ -92,7 +92,7 @@ void render(const std::vector<glm::vec3>& VBO, const Uniforms& uniforms) {
 
         //fragment = fragmentShaderSaturn(fragment);
 
-        //fragment = fragmentShaderSun(fragment);
+        fragment = fragmentShaderSun(fragment);
 
 
         point(fragment);
