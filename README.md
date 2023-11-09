@@ -17,7 +17,7 @@ Para poder correr todos los planteas, se debe de descomentar el planeta que se d
 
 
 ## Resultados:
-3. Earth
+1. Earth
   - ![](https://github.com/ManuelR11/LAB_4_Graficas_C/blob/df0cf496c3fbdf1c92e3d01816b24cf5b749c5fd/Earth.gif)
 
 2. Saturn
