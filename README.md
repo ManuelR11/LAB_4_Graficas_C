@@ -27,7 +27,7 @@ Para poder correr todos los planteas, se debe de descomentar el planeta que se d
   - ![](https://github.com/ManuelR11/LAB_4_Graficas_C/blob/df0cf496c3fbdf1c92e3d01816b24cf5b749c5fd/Sun.gif)
 
 4. Mars
-  - ![](https://github.com/ManuelR11/LAB_4_Graficas_C/blob/df0cf496c3fbdf1c92e3d01816b24cf5b749c5fd/Mars.gif)
+  - ![](https://github.com/ManuelR11/LAB_4_Graficas_C/blob/48816753177bfde987762329fb751a5deaefd7e9/Mars.gif)
 
 5. Venus
   - ![](https://github.com/ManuelR11/LAB_4_Graficas_C/blob/df0cf496c3fbdf1c92e3d01816b24cf5b749c5fd/Venus.gif) 
