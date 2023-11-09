@@ -13,7 +13,7 @@ Para este lab, tienen que diseñar 3 cuerpos celestes y crearlos en su software 
 
 ## Play:
 Para poder correr todos los planteas, se debe de descomentar el planeta que se desea observar en el main.cpp
-![]([https://github.com/ManuelR11/Flat_Shading_GraficaComputador/blob/462abb6b1393ad33f0ca0048bba3192bc24782a8/Space_Object%202023-10-19%2022-32-12.gif](https://github.com/ManuelR11/LAB_4_Graficas_C/blob/df0cf496c3fbdf1c92e3d01816b24cf5b749c5fd/Codigo_comentado.JPG)https://github.com/ManuelR11/LAB_4_Graficas_C/blob/df0cf496c3fbdf1c92e3d01816b24cf5b749c5fd/Codigo_comentado.JPG)
+![](https://github.com/ManuelR11/LAB_4_Graficas_C/blob/d2a63f3f07ce0bea0b568ffaa0661dffe959f38b/Codigo_comentado.JPG)
 
 
 ## Resultados:
