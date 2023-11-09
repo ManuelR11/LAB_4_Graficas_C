@@ -230,10 +230,10 @@ Fragment fragmentShaderMars(Fragment& fragment) {
     float noiseValue = noise.GetNoise((uv.x + noiseX) * noiseScale, (uv.y + noiseY) * noiseScale);
 
     // Agregar cráteres que cubran todo el planeta
-    float craterThreshold = 0.1; // Umbral para la generación de cráteres
+    float craterThreshold = 0.05; // Umbral para la generación de cráteres
     if (noiseValue < craterThreshold) {
         // Si el valor de ruido es menor que el umbral, crea un cráter
-        Color craterColor(255, 51, 0); // Color rojizo
+        Color craterColor(0, 0, 0); // Color rojizo
         color = craterColor;
     } else {
         // Si no estamos en un cráter, utiliza el color base
